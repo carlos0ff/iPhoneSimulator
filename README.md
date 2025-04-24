@@ -74,10 +74,8 @@ meuiPhone.ligar("11999999999");
 
 ## 🖼️ Screenshots
 <div align="center">
-  <img src="./assets/player.png" width="200" alt="Player de Música"> 
-  <img src="./assets/browser.png" width="200" alt="Navegador"> 
-  <img src="./assets/apps.png" width="200" alt="Tela de Apps"> 
-  <img src="./assets/lock.png" width="200" alt="Tela de Bloqueio">
+  <img src="./assets/images/Telas de Apps em Dispositivo Móvel.pngplayer.png" width="200" alt="Player de Música"> 
+  <img src="./assets/images/uml.png" width="200" alt="Navegador"> 
 </div>
 
 ---
