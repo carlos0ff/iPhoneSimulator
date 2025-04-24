@@ -1,33 +1,18 @@
-<h1 align="center">
-  <img src="./assets/images/textLogotype.png"  alt="iPhone Logo"/> 
-  <br/>
-  iPhoneSimulator - Simulador de iPhone em Java
-</h1>
+<h1 align="center"> iPhoneSimulator - Simulador de iPhone em Java</h1>
 
 <p align="center">
   <em>Simulador completo das funcionalidades de um iPhone desenvolvido como projeto do <strong>Bootcamp Bradesco - Java Cloud Native</strong></em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/carlos0ff/iPhoneSimulator/issues">
-  <img src="https://img.shields.io/github/issues/carlos0ff/iPhoneSimulator?style=for-the-badge&color=green&label=IN%20PROGRESS" alt="Issues">
-</a>
-  <a href="https://github.com/carlos0ff/iPhoneSimulator/stargazers">
-    <img src="https://img.shields.io/github/stars/carlos0ff/iPhoneSimulator?style=for-the-badge&color=yellow&logo=github" alt="Stars">
-  </a>
-  <a href="https://github.com/carlos0ff/iPhoneSimulator/network/members">
-    <img src="https://img.shields.io/github/forks/carlos0ff/iPhoneSimulator?style=for-the-badge&color=blue&logo=github" alt="Forks">
-  </a>
-  <a href="https://github.com/carlos0ff/iPhoneSimulator/issues">
-    <img src="https://img.shields.io/github/issues/carlos0ff/iPhoneSimulator?style=for-the-badge&color=green&logo=github" alt="Issues">
-  </a>
-  <a href="https://github.com/carlos0ff/iPhoneSimulator/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=open-source-initiative" alt="License">
-  </a>
-  <a href="https://java.com">
-    <img src="https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk" alt="Java Version">
-  </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Developing-yellow?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/github/stars/carlos0ff/iPhoneSimulator?style=for-the-badge&color=yellow&logo=github" alt="Stars">
+  <img src="https://img.shields.io/github/forks/carlos0ff/iPhoneSimulator?style=for-the-badge&color=blue&logo=github" alt="Forks">
+  <img src="https://img.shields.io/github/issues/carlos0ff/iPhoneSimulator?style=for-the-badge&color=green&logo=github" alt="Issues">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=open-source-initiative" alt="License">
+  <img src="https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk" alt="Java Version">
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" alt="Version"/>
+</div>
 
 ---
 
