@@ -74,8 +74,7 @@ meuiPhone.ligar("11999999999");
 
 ## 🖼️ Screenshots
 <div align="center">
-  <img src="./assets/images/Telas.png" width="200" alt="Player de Música"> 
-  <img src="./assets/images/uml.png" width="200" alt="Navegador"> 
+  <img src="./assets/images/Telas.png"  /> 
 </div>
 
 ---
