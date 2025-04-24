@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/images/textoLogo.png"  alt="iPhone Logo"/> 
+  <img src="./assets/images/textLogotype.png"  alt="iPhone Logo"/> 
   <br/>
   iPhoneSimulator - Simulador de iPhone em Java
 </h1>
