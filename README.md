@@ -154,4 +154,4 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 --- 
 
-<p align="center"> Desenvolvido com ❤️ por <a href="https://github.com/carlos0ff">Carlos</a> </p>
+<p align="center"> Desenvolvido com ❤️ por <a href="https://github.com/carlos0ff">José Carlos</a> </p>
